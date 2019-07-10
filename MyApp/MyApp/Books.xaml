@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyApp.Books">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <ListView RowHeight="100" Grid.ColumnSpan="2" x:Name="lvBooks"
+            ItemTapped="Handle_ItemTapped">
+
+                <!--Built in Cells-->
+                <ListView.ItemTemplate >
+                    <DataTemplate>
+                       
+                        <ViewCell>
+                            <Grid Padding="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                   
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="120"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+<Image   Grid.Column="0" Source="{Binding Cover}" Aspect="AspectFit"/>
+<Label  Grid.Column="1" Text="{Binding Title, StringFormat='Tytuł: {0:N}'}" LineBreakMode="TailTruncation"></Label>
+                                <Label  Grid.Column="2" Text="{Binding PublicationDate, StringFormat='Data publikacji: {0:d}'}" ></Label>
+                            </Grid>
+                            </ViewCell>
+                            
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Entry x:Name="entryTitle" Grid.Row="1" Placeholder="Tytuł" />
+            <Entry x:Name="entryCover" Grid.Row="1" Grid.Column="1" Placeholder="URL okładki" />
+           
+            <DatePicker x:Name="pubDate" Grid.Row="2" Grid.Column="1" />
+            <Button Grid.Row="3" Grid.ColumnSpan="2" Text="Zapisz książkę" Clicked="Button_Clicked" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

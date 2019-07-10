@@ -1,0 +1,29 @@
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.deps.json
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.dll
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.pdb
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.csprojAssemblyReference.cache
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfoInputs.cache
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfo.cs
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.dll
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.pdb
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\Books.xaml.g.cs
+D:\Users\paulina.maszkowska\Desktop\MyApp\MyApp\MyApp\obj\Debug\netstandard2.0\Authors.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.csprojAssemblyReference.cache
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\Authors.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\Books.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.AssemblyInfo.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.dll
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\MyApp.pdb
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.deps.json
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.dll
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\bin\Debug\netstandard2.0\MyApp.pdb
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\BookDetails.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\Views\AuthorDetails.xaml.g.cs
+C:\Users\Paula\Desktop\book xama\Books-Xamarin-master\MyApp\MyApp\obj\Debug\netstandard2.0\XamlC.stamp
